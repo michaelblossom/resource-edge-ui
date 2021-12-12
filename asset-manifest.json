@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80a2cc18.chunk.css",
+    "main.js": "/static/js/main.6baa8ff9.chunk.js",
+    "main.js.map": "/static/js/main.6baa8ff9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ec76fb4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ec76fb4e.js.map",
+    "static/js/2.d3d1d33c.chunk.js": "/static/js/2.d3d1d33c.chunk.js",
+    "static/js/2.d3d1d33c.chunk.js.map": "/static/js/2.d3d1d33c.chunk.js.map",
+    "static/js/3.fe7b4de0.chunk.js": "/static/js/3.fe7b4de0.chunk.js",
+    "static/js/3.fe7b4de0.chunk.js.map": "/static/js/3.fe7b4de0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.80a2cc18.chunk.css.map": "/static/css/main.80a2cc18.chunk.css.map",
+    "static/js/2.d3d1d33c.chunk.js.LICENSE.txt": "/static/js/2.d3d1d33c.chunk.js.LICENSE.txt",
+    "static/media/Artwork@2x.4d7dce8d.png": "/static/media/Artwork@2x.4d7dce8d.png",
+    "static/media/index.css": "/static/media/Circular Std Medium 500.3fcb6535.ttf",
+    "static/media/Direct Reports - List (1).155d9c22.png": "/static/media/Direct Reports - List (1).155d9c22.png",
+    "static/media/Direct Reports - List.155d9c22.png": "/static/media/Direct Reports - List.155d9c22.png",
+    "static/media/Frame 19864 (1).23f71200.png": "/static/media/Frame 19864 (1).23f71200.png",
+    "static/media/Frame 19864.23f71200.png": "/static/media/Frame 19864.23f71200.png",
+    "static/media/Group (1).6289cf7a.png": "/static/media/Group (1).6289cf7a.png",
+    "static/media/Group 43 (1).eaa77756.png": "/static/media/Group 43 (1).eaa77756.png",
+    "static/media/Group 44.29e1236a.png": "/static/media/Group 44.29e1236a.png",
+    "static/media/image 7 (1).07de1ea5.png": "/static/media/image 7 (1).07de1ea5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec76fb4e.js",
+    "static/js/2.d3d1d33c.chunk.js",
+    "static/css/main.80a2cc18.chunk.css",
+    "static/js/main.6baa8ff9.chunk.js"
+  ]
+}
